@@ -45,5 +45,5 @@ This is an **open collaborative project** built for rapid MVP delivery, learning
 
 Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/KAVA--local-digital-presence-tracker.git
+git clone https://github.com/Kenkyalo/KAVA--local-digital-presence-tracker.git
 
