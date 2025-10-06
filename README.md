@@ -47,3 +47,9 @@ Clone the repository:
 ```bash
 git clone https://github.com/Kenkyalo/KAVA--local-digital-presence-tracker.git
 
+---
+
+### 🧾 License
+All Rights Reserved © 2025 Local Digital Presence Tracker Team  
+This repository is shared publicly for learning and collaboration reference only.  
+Unauthorized commercial or derivative use is prohibited.
